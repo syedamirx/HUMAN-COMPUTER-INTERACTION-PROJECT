@@ -42,13 +42,11 @@ These application also connect on a social media platform you can easily share y
 10. Fast Interactions For Users:
 we’ve designed the application to provide fast interactions for users who will want to document observations on the spot.
 
-
-
-##Prospect Technology Use ##
+## Prospect Technology Use ##
 
 To analyze our product, we decided to use the Keystroke-Level Model to represent a specific task for our system. We chose to use the keystroke-level model (KLM) because it is helpful for tracking user actions to estimate the efficiency of design by completing a given task by breaking it down into subtasks based on human input and system response within the application. The KLM is also composed of six operators to represent the user’s physical motor actions such as keystrokes (K), pointing with the mouse (P), homing hands to the keyboard (H), and drawing line segments (D), cognitive mental actions from the user’s perspective (M), and an operator that takes into account the response from the system itself (R). For our study we had to modify several of the operators for computing a task on a mobile device rather than a computer system, for instance the keystrokes were counted as number of taps on the phone screen, pointing with the mouse would be moving your finger to point to the desired area of the app, and we assumed that the user’s hands would always be homed on the mobile device.
 
-##References##
+## Refrences ##
 - [1] Card, S. K., Moran, T. P., and Newell, A. (1980). The keystroke-level model for user performance with interactive systems, Communications of the ACM, 23, 396-410.
 
 - [2] Cumbo, Bronwyn J., Paay, Jeni, Kjeldskov, Jesper, and Jacobs, Brent C. 2014. Connecting children to nature with technology: sowing the seeds for proenvironmental behaviour. In Proceedings of the 2014 conference on Interaction design and children (IDC '14). ACM, NewYork, NY, USA, 189-192
