@@ -61,7 +61,7 @@ Hobbies: Playing a musical instrument, painting, networking event, board games, 
 Interest: videos games, creative writing, swimming, designing and making review of an application, football  
 Problem: This form of gamification allows users to compete with each other to reach achievements and gain points by taking more pictures to identify and liking or commenting on their friends’ pictures. 
 
-**QUESTION  **
+**QUESTION**
 
 •	What is the best snaps searching software  with extra features which other applications are not having?
 o	I Natural list
@@ -73,6 +73,7 @@ o	(yes) o I natural list
 
 •	How often do you use this application? 
 o	Several times a week (YES) o Every day   o 1-3 times a month o Less than once a month 
+
 ### PERSONA 3 ###
 Name: Saif ail khan
 Age: 23
@@ -82,7 +83,7 @@ Hobbies playing cricket watching movies hangout, friends circle
 Interest: VR games, content writing, running, designing and making review of an applications, basketball
 Problem: Once the system has found a match, the screen is updated with text to let the user know that we have identified their object.
 
-**Question **
+**Question**
 •	What is the best snaps searching software  with extra features which other applications are not having?
 o	I Natural list
 o	Plant snap
@@ -94,7 +95,7 @@ o	(yes) o I natural list
 •	How often do you use this application? 
 o	Several times a week (YES) o Every day   o 1-3 times a month o Less than once a month
 
-### PERSONA 4 ###
+### PERSONA 4###
 Name: Syed ali muzzafar
 Age: 24
 Gender: Male
@@ -103,7 +104,8 @@ Hobbies: Playing a musical instrument, painting, networking event, board games, 
 Interest: videos games, creative writing, swimming, designing and making review of applications, football
 Problem: Pictures that have not yet been identified will be displayed with a label for the tagged location of the picture at the top of the screen as well as links to see which other users liked or commented on the photo.
 
-**Question **
+**Question**
+
 •	What is the best snaps searching software  with extra features which other applications are not having?
 o	I Natural list
 o	Plant snap
@@ -115,7 +117,7 @@ o	(yes) o I natural list
 •	How often do you use this application?
 o	Several times a week (YES) o Every day   o 1-3 times a month o Less than once a month
 
-##SCENARIO ##
+##SCENARIO##
 
 ### SCENARIO 1  ###
 A group of middle school students go on a hike with their local wildlife club. They decide to use WildSnap to keep track of various wildlife and plant life they see. The group leader creates a competition where the top 3 groups with the highest amount of points will win a prize. The groups split up and begin exploring the trails. One group runs across an insect and takes a picture with the app, which determines the insect is a Luna moth caterpillar. At the end of the hike, the group leader looks at the profile pages of each of the groups to see how many points were earned.
