@@ -17,7 +17,9 @@ At initial we are going to implement 2 tasks of our application namely User Frie
 Mobile wildlife identification applications and websites currently exist. However, these applications are limited by their features such as:
 
 ● very complicated and technical interface,
+
 ● requiring the user to identify observations using scientific guides, or
+
 ● only providing resources for identifying certain classes, such as flowers, birds, amphibians.
 
 One mobile and web application, iNaturalist (http://www.inaturalist.org/), provides users the ability to log observations using latitude/longitude, time and date of observation, and user entered species name. This requires the user to identify the species observed limiting its application to audiences with advanced knowledge on wildlife and plant life. Also, the design of the application makes it more suitable for less time-constrained identifications and uploads. WildObs (http://wildobs.com/) is a mobile application that allows users to share observations via text-based logs with or without photo, learn new information about species, and view other user's’ logs. However, this application relies on the user’s ability to identify wildlife or plants and doesn’t provide any other interactions between user’s besides viewing galleries. Project Noah (http://www.projectnoah.org/) is another mobile application for wildlife and plant observations that allows a user to upload pictures of flora and fauna for identification through field guides.
@@ -159,6 +161,6 @@ Suppose zohaib do the side job of plantation one day they go to the coustomer ho
  saif have a many pet animals. they can easily solve the problems of his all pets by just capture the picture of that and get the solution of his problem because these application gives the details of all animal.
 
 
-## Prototyping ##
+## PROTOTYPING ##
 
 
