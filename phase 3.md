@@ -10,7 +10,7 @@ StdID | Name
 ## Need Finding ##
 - All the designs and the thoughts gathered together and now we are heading towards our final design and we are going to implement it in our application.
 
-## Design Alternative ##
+# Design Alternative #
 
 ### Design Alternative 1 ###
 - At initial we want a simple static design layout for our application to make user understand each and every option easily adn we thought to have simple color combinations that looks very decent.
