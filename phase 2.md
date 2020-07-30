@@ -8,7 +8,6 @@ StdID | Name
 62682 | Syed Ali Muzaffar Rizvi
 
 ##Task Finalization##
-
 At initial we are going to implement 2 tasks of our application namely User Friendly Interface & Available For Both Wildlife Status these tasks include the ease for the user in a sense that user can easily search the both animal and plants by just capture the image of that and application is unique in that it will provide auto-detection using an image search, allow quick picture taking, provide a non-technical user-friendly interface, and promote retention through the use of gamification techniques
 
 ##Need Finding##
