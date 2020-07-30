@@ -57,7 +57,7 @@ Hobbies: Solving problems, playing Cards, writing  articles, Travelling
 Interest: Involved in local gaming zones, classes and groups, organizing events in the community, preparing food for events, Attending events, shows and exhibitions, cooking.
 Problem: photo/image searching problem in other apps
 
-**QUESTIONS  **
+** QUESTIONS  **
 
 •	What is the best snaps searching software  with extra features which other applications are not having?
 o	I Natural list
