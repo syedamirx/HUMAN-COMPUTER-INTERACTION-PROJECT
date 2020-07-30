@@ -1,5 +1,6 @@
 #HCI 104475: WildSnap: Mobile Android Application For Wildlife/Plant Identification#
 
+
 ###PROJECT MEMBERS###
 StdID | Name
 ------------ | -------------
