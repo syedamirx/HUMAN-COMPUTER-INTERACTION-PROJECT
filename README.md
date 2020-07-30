@@ -5,7 +5,9 @@
 StdID | Name
 ------------ | -------------
 **63120** | **Syed Amir Ali Rizvi** 
-**63120** | **Muhammad Zohaib Asim** 
+63173 | Muhammad zuhaib
+62682 | Syed Ali Muzaffar Rizvi
+
 
 
 ## Domain Description ##
