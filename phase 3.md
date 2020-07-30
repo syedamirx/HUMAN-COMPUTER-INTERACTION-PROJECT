@@ -30,7 +30,7 @@ StdID | Name
 ### Design Alternative 6 ###
 - We uses the concept of Flexiblity because we don't want our design to be complicated so that user can't find their required option that's why we design a simple and easy designs for our application.
 
-#PERSONA#
+# PERSONA #
 
 ### PERSONA 1 ###
 
@@ -118,7 +118,7 @@ o	(yes) o I natural list
 •	How often do you use this application?
 o	Several times a week (YES) o Every day   o 1-3 times a month o Less than once a month
 
-#SCENARIO#
+# SCENARIO #
 
 ### SCENARIO 1  ###
 A group of middle school students go on a hike with their local wildlife club. They decide to use WildSnap to keep track of various wildlife and plant life they see. The group leader creates a competition where the top 3 groups with the highest amount of points will win a prize. The groups split up and begin exploring the trails. One group runs across an insect and takes a picture with the app, which determines the insect is a Luna moth caterpillar. At the end of the hike, the group leader looks at the profile pages of each of the groups to see how many points were earned.
