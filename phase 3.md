@@ -4,8 +4,8 @@
 StdID | Name
 ------------ | -------------
 **63120** | **Syed Amir Ali Rizvi**
-63173 | Uhammad Zuhaib
-63173 | Uhammad Zuhaib
+63173 | Muhammad zuhaib
+62682 | Syed Ali Muzaffar Rizvi
 
 ## Need Finding ##
 - All the designs and the thoughts gathered together and now we are heading towards our final design and we are going to implement it in our application.
