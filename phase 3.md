@@ -146,59 +146,12 @@ Suppose zohaib do the side job of plantation one day they go to the coustomer ho
 
 ## FINAlIZE PROTOTYPE##
 
-**Welcome Screen**<br>
-<img src="Prototypes/home.PNG"/>
-<br>
-**Route: Initial Display When Application Starts**
-
-**Side Bar**<br>
-<img src="Prototypes/sidebar.PNG"/>
-<br>
-**Route: Home Automation => Left Corner**
-
-**Home Screen**<br>
-<img src="Prototypes/home1.PNG"/><br>
-**Route: Welcome Screen => Home Automation**
-
-**Connectivity**<br>
-<img src="Prototypes/Connect.PNG"/><br>
-**Route: Home Automation => Conectivity**
-
-**Rooms Controls**<br>
-<img src="Prototypes/Room.PNG"/><br>
-**Route: Home Automation => Rooms**
-
-**Kitchen Appliences Control**<br>
-<img src="Prototypes/Kitchen.PNG"/><br>
-**Route: Home Automation => Kitchen**
-
-**Washrooms**<br>
-<img src="Prototypes/Washrooms.PNG"/><br>
-**Route: Home Automation => Washrooms**
-
-**Water Machine**<br>
-<img src="Prototypes/WaterMachine.PNG"/><br>
-**Route: Home Automation => Machines**
-
-**Washing Machine**<br>
-<img src="Prototypes/WasingMachine.PNG"/><br>
-**Route: Home Automation => Machines**
-
-**CCTV**<br>
-<img src="Prototypes/CCTV.PNG"/><br>
-**Route: Home Automation => CCTV**
-
-**Smart TV**<br>
-<img src="Prototypes/SmartTV.PNG"/><br>
-**Route: Home Automation => Smart TV**
-
-**Garden Controls**<br>
-<img src="Prototypes/Garden.PNG"/><br>
-**Route: Home Automation => Garden**
-
-**Electricity Usage**<br>
-<img src="Prototypes/ElectrictyUsage.PNG"/><br>
-**Route: Home Automation => Electricity Usage**
+![1](https://user-images.githubusercontent.com/68268159/88885928-dfac8c80-d252-11ea-9b17-209795c961ec.jpg)
+![2](https://user-images.githubusercontent.com/68268159/88885931-e0ddb980-d252-11ea-84b2-fc04877f73ea.jpg)
+![3](https://user-images.githubusercontent.com/68268159/88885935-e0ddb980-d252-11ea-9582-17c4e9a41625.jpg)
+![4](https://user-images.githubusercontent.com/68268159/88885936-e1765000-d252-11ea-927c-220368fed898.jpg)
+![5](https://user-images.githubusercontent.com/68268159/88885938-e20ee680-d252-11ea-817e-b6c39aeb2a49.jpg)
+![6](https://user-images.githubusercontent.com/68268159/88885939-e20ee680-d252-11ea-8287-9e25fc1662ec.jpg)
 
 
 
