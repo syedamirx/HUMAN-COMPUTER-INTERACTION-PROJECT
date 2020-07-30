@@ -146,6 +146,12 @@ Suppose zohaib do the side job of plantation one day they go to the coustomer ho
 
 ## FINAlIZE PROTOTYPE##
 
+![7](https://user-images.githubusercontent.com/68268159/88885940-e2a77d00-d252-11ea-828c-162d86f07e2e.jpg)
+
+![8](https://user-images.githubusercontent.com/68268159/88885942-e2a77d00-d252-11ea-9800-73658981ab8f.jpg)
+
+![9](https://user-images.githubusercontent.com/68268159/88885944-e3401380-d252-11ea-9a55-98bb266df22e.jpg)
+
 ![1](https://user-images.githubusercontent.com/68268159/88885928-dfac8c80-d252-11ea-9b17-209795c961ec.jpg)
 
 ![2](https://user-images.githubusercontent.com/68268159/88885931-e0ddb980-d252-11ea-84b2-fc04877f73ea.jpg)
