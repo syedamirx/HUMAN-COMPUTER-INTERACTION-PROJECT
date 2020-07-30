@@ -96,7 +96,7 @@ o	(yes) o I natural list
 •	How often do you use this application? 
 o	Several times a week (YES) o Every day   o 1-3 times a month o Less than once a month
 
-### PERSONA 4###
+### PERSONA 4 ###
 Name: Syed ali muzzafar
 Age: 24
 Gender: Male
