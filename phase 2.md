@@ -80,15 +80,22 @@ Problem: This form of gamification allows users to compete with each other to re
 **QUESTION  **
 
 •	What is the best snaps searching software  with extra features which other applications are not having?
+
 o	I Natural list
+
 o	Plant snap
 
 •	Based on your experience, I natural list or any other application is better than us  give your  response?
+
 o	Wild snap(yours)
+
 o	(yes) o I natural list
 
 •	How often do you use this application? 
-o	Several times a week (YES) o Every day   o 1-3 times a month o Less than once a month 
+
+o	Several times a week (YES) o Every day   
+
+o 1-3 times a month o Less than once a month 
 
 ### PERSONA 3 ###
 Name: Saif ail khan
@@ -100,8 +107,11 @@ Interest: VR games, content writing, running, designing and making review of an 
 Problem: Once the system has found a match, the screen is updated with text to let the user know that we have identified their object.
 
 **Question **
+
 •	What is the best snaps searching software  with extra features which other applications are not having?
+
 o	I Natural list
+
 o	Plant snap
 
 •	Based on your experience, I natural list or any other application is better than us  give your  response?
