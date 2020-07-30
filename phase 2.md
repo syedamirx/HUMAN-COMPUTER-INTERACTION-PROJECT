@@ -58,9 +58,10 @@ Interest: Involved in local gaming zones, classes and groups, organizing events 
 Problem: photo/image searching problem in other apps
 
 **QUESTIONS **
-
 •	What is the best snaps searching software  with extra features which other applications are not having?
+
 o	I Natural list
+
 o	Plant snap
 
 •	Based on your experience, I natural list or any other application is better than us  give your  response?
