@@ -163,4 +163,9 @@ Suppose zohaib do the side job of plantation one day they go to the coustomer ho
 
 ## PROTOTYPING ##
 
+![WhatsApp Image 2020-07-30 at 11 02 05 AM](https://user-images.githubusercontent.com/68268159/88887200-5e0a2e00-d255-11ea-97a3-5486e78bd9fb.jpeg)
+
+![WhatsApp Image 2020-07-30 at 11 02 12 AM](https://user-images.githubusercontent.com/68268159/88887201-5f3b5b00-d255-11ea-87eb-650a1eabd938.jpeg)
+
+![WhatsApp Image 2020-07-30 at 11 02 35 AM](https://user-images.githubusercontent.com/68268159/88887202-5fd3f180-d255-11ea-82c0-7ce22753a22d.jpeg)
 
