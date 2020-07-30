@@ -1,4 +1,4 @@
-# HCI 104497 : WildSnap: Mobile Android Application For Wildlife/Plant Identification. #
+# HCI 104475 : WildSnap: Mobile Android Application For Wildlife/Plant Identification. #
 # Phase3: Second Iteration Final #
 ### Project Members ###
 StdID | Name
