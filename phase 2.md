@@ -1,4 +1,5 @@
-#Phase 2: Narowing down the Application#
+# HCI 104475 : WildSnap: Mobile Android Application For Wildlife/Plant Identification. #
+# Phase 2: Narowing down the Application #
 
 ### Project Members ###
 StdID | Name
@@ -7,11 +8,11 @@ StdID | Name
 63173 | Muhammad zuhaib
 62682 | Syed Ali Muzaffar Rizvi
 
-##Task Finalization##
+## Task Finalization ##
 
 At initial we are going to implement 2 tasks of our application namely User Friendly Interface & Available For Both Wildlife Status these tasks include the ease for the user in a sense that user can easily search the both animal and plants by just capture the image of that and application is unique in that it will provide auto-detection using an image search, allow quick picture taking, provide a non-technical user-friendly interface, and promote retention through the use of gamification techniques
 
-##Need Finding##
+## Need Finding ##
 
 Mobile wildlife identification applications and websites currently exist. However, these applications are limited by their features such as:
 
@@ -29,7 +30,7 @@ Finally, much research has been conducted involving the importance of the potent
 technology and nature included social opportunities and opportunities to learn. We intend WildSnap to add to this work by creating an interface simple enough for beginners, such as children, to use while still encouraging users of all areas to explore their local environment and identify local plant and wildlife near their current location. Therefore, we are decided to include
 social opportunities in the form of social media features (likes, comments, and friends).
 
-##Design Alternatives##
+## Design Alternatives ##
 
 ### Design Alternative 1 ###
 - At initial we want a simple static design layout for our application to make user understand each and every option easily adn we thought to have simple color combinations that looks very decent.
@@ -43,7 +44,7 @@ social opportunities in the form of social media features (likes, comments, and 
 ### Design Alternative 4 ###
 - Since diplaying option in a bar isn't that much attractive and user may not be able to find the options quickly so we decided to show them in forms of cube each option have its own cide in front of the screen and all of the features display in front of the user.
 
-##PERSONA##
+## PERSONA ##
 ### PERSONA 1 ###
 
 Name: Muhammad Zuhaib
@@ -86,6 +87,7 @@ o	(yes) o I natural list
 
 •	How often do you use this application? 
 o	Several times a week (YES) o Every day   o 1-3 times a month o Less than once a month 
+
 ### PERSONA 3 ###
 Name: Saif ail khan
 Age: 23
@@ -128,7 +130,7 @@ o	(yes) o I natural list
 •	How often do you use this application?
 o	Several times a week (YES) o Every day   o 1-3 times a month o Less than once a month
 
-##SCENARIO ##
+## SCENARIO ##
 
 ### SCENARIO 1  ###
 A group of middle school students go on a hike with their local wildlife club. They decide to use WildSnap to keep track of various wildlife and plant life they see. The group leader creates a competition where the top 3 groups with the highest amount of points will win a prize. The groups split up and begin exploring the trails. One group runs across an insect and takes a picture with the app, which determines the insect is a Luna moth caterpillar. At the end of the hike, the group leader looks at the profile pages of each of the groups to see how many points were earned.
@@ -157,6 +159,6 @@ Suppose zohaib do the side job of plantation one day they go to the coustomer ho
  saif have a many pet animals. they can easily solve the problems of his all pets by just capture the picture of that and get the solution of his problem because these application gives the details of all animal.
 
 
-##Prototyping##
+## Prototyping ##
 
 
